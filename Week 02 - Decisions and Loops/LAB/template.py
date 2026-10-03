@@ -60,8 +60,4 @@ print(f"OVER LIMIT records:{overlimit_count}")
 
 
 # ==========================================================================
-# 5. Before you finish:
-#
-#    [ ] Run it three times with different numbers
-#    [ ] Run it with a total of 0 and note the error (do not fix it yet)
-#    [ ] Check every variable name says what it holds
+
